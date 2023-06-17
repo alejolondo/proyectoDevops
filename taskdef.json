@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "java-app",
-            "image": "268829222224.dkr.ecr.us-east-1.amazonaws.com/java_app:v1.1",
+            "image": "<IMAGE1_NAME>",
             "cpu": 0,
             "portMappings": [
                 {
